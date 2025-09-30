@@ -1,7 +1,7 @@
 import React from 'react';
 import SmokeyCursor from "./components/lightswind/smokey-cursor"
 import ModelViewer from './components/lightswind/3d-model-viewer';
-import model from '../public/models/eunomia.glb';
+import model from '../public/models/car.glb';
 
 export default function LoginPage() {
   return (
